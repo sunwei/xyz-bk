@@ -29,6 +29,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-archives (2.1.1)
       jekyll (>= 2.4)
+    jekyll-compose (0.11.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-extract-element (0.0.7)
       jekyll (~> 3.3)
       nokogiri (= 1.8.2)
@@ -73,10 +75,11 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.7.2)
   jekyll-archives (= 2.1.1)
+  jekyll-compose (~> 0.11.0)
   jekyll-extract-element (= 0.0.7)
   jekyll-feed (= 0.9.3)
   jekyll-seo-tag (= 2.4.0)
   jekyll-sitemap (= 1.2.0)
 
 BUNDLED WITH
-   1.16.0
+   1.17.3
