@@ -1,20 +1,20 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Sunway
+url: "https://sunwei.xyz/"
 baseurl:
-google_analytics_key:
-disqus_shortname:
+google_analytics_key: UA-136596324-1
+disqus_shortname: Sun Wei
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Knowledge management for TechOps
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Wayde
+  email: me@sunwei.xyz
+  twitter: szm_tech
 social:
   name: Base Template
   links:
