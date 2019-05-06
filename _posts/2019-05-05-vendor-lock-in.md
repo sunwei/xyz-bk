@@ -11,7 +11,7 @@ type: Document
 
 为了避免供应商销定带来的高维护成本，和更方便的享用新技术，建议多采用开源软件，而非单独商业服务提供商。
 
-![Vendor lock-in](http://sunzhongmou.oss-cn-hangzhou.aliyuncs.com/vendor-lock-in.jpeg?Expires=1557043498&OSSAccessKeyId=TMP.AgFOMxv3bxWrh9SG0O5CO072BJ7-M9N9P4hELf32p-eW05iNw_ORtgLhpb6nADAtAhRxkqISW6QI3kdWev9WNWr9ZXH1HAIVAJnVjGyEjESc_hBdGN_agi2_b1w4&Signature=jZXw0EsjxC0n7N7ChWK3qy4DDE8%3D)
+![Vendor lock-in](/images/post/vendor-lock-in.jpeg)
 
 ## Reference
 * [LockInCost](https://martinfowler.com/bliki/LockInCost.html)
