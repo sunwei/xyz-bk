@@ -1,6 +1,6 @@
 ---
 date: 2019-07-01
-title: InversionOfControl
+title: Inversion Of Control
 categories:
   - concepts
 description: Framework vs Library
