@@ -3,7 +3,7 @@ layout: post
 date: 2019-05-06
 title: Total cost of ownership
 categories:
-  - concept
+  - concepts
 description: "A financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or system"
 type: Document
 ---
