@@ -17,7 +17,7 @@ type: Document
 ### Bad example
 
 Http是高层模块，XMLHttpService是低层模块，如果直接依赖，会导致高层模块需要知道低层模块的实现细节。
-~~~
+~~~py
 class XMLHttpService(XMLHttpRequestService):
     pass
 
@@ -32,15 +32,18 @@ class Http:
         self.xml_http_service.request(url, 'POST')
 ~~~
 
+
 ### Good example
+
 高层和低层都以抽象层进行交互，消除了依赖，并方便拓展
-~~~
-抽象层
+
+~~~py
+#抽象层
 class Connection:
     def request(self, url: str, options: dict):
         raise NotImplementedError
 
-高层
+#高层
 class Http:
     def __init__(self, http_connection: Connection):
         self.http_connection = http_connection
@@ -51,7 +54,7 @@ class Http:
     def post(self, url, options: dict):
         self.http_connection.request(url, 'POST')
 
-低层
+#低层
 class XMLHttpService(Connection):
     xhr = XMLHttpRequest()
 
