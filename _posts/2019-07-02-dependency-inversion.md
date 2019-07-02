@@ -17,7 +17,8 @@ type: Document
 ### Bad example
 
 Http是高层模块，XMLHttpService是低层模块，如果直接依赖，会导致高层模块需要知道低层模块的实现细节。
-~~~py
+
+~~~python
 class XMLHttpService(XMLHttpRequestService):
     pass
 
@@ -37,7 +38,7 @@ class Http:
 
 高层和低层都以抽象层进行交互，消除了依赖，并方便拓展
 
-~~~py
+~~~python
 #抽象层
 class Connection:
     def request(self, url: str, options: dict):
