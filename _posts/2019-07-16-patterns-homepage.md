@@ -32,7 +32,7 @@ set_order: 1
     <tr>
       <td style="text-align: left" rowspan="11"><strong>Scope</strong></td>
       <td style="text-align: center" rowspan="2">Class</td>
-      <td style="text-align: center">Factory Method</td>
+      <td style="text-align: center"><a href="/patterns/factory/">Factory</a></td>
       <td style="text-align: center">Adapter</td>
       <td style="text-align: center">Interpreter</td>
     </tr>
@@ -48,7 +48,7 @@ set_order: 1
       <td style="text-align: center">Chian of Responsibility</td>
     </tr>
     <tr>
-      <td style="text-align: center">Builder</td>
+      <td style="text-align: center"><a href="/patterns/builder/">Builder</a></td>
       <td style="text-align: center">Bridge</td>
       <td style="text-align: center">Command</td>
     </tr>
