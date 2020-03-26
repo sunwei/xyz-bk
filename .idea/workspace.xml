@@ -2,131 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0199f62-8d5d-49e4-b34d-a1dc4b3b6124" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/footer.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/document-icon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/listings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/logo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/relative-src.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/search-icon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social-icon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/youtube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-05-vendor-lock-in.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-lightweight-architecture-decision-records.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-prime-directive.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-progressive-web-applications.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-total-cost-of-ownership.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-01-InversionOfControl.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-02-dependency-inversion.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-16-abstract-factory.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-16-patterns-homepage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-17-factory.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-18-builder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-19-strategy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/_defaults.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/cloudcannon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/dark-theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/elements.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/faq.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/search.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tutorials.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sets/_defaults.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sets/design-pattern.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/screen.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/_screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/post/vendor-lock-in.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/lunr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DevTools/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/About/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/AppLayout/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/AppLayout/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/AppLayout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/http/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>everything y</find>
-      <find>everything you</find>
-      <find>Every</find>
-      <find>every</find>
-      <find>everything you need</find>
-      <find>土工女</find>
-      <find>土工</find>
-      <find>土</find>
-      <find>f</find>
-      <find>fa</find>
-      <find>fav</find>
-      <find>favi</find>
-      <find>favic</find>
-      <find>favico</find>
-      <find>favicon</find>
-      <find>favicon.</find>
-      <find>favicon.p</find>
-      <find>favicon.png</find>
-      <find>/favicon.png</find>
-      <find>/imfavicon.png</find>
-      <find>/imafavicon.png</find>
-      <find>/imagefavicon.png</find>
-      <find>/imagesfavicon.png</find>
-      <find>/images/favicon.png</find>
-      <find>conc</find>
-      <find>concepts</find>
-      <find>concept</find>
-      <find>rou</find>
-      <find>factory</find>
-      <find>bulid</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/images</dir>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -147,17 +55,22 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/containers/AppLayout" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_sass" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/post" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/containers/AppLayout" />
+      <recent name="$PROJECT_DIR$/src/containers" />
+      <recent name="$PROJECT_DIR$/src/redux/reducers" />
+      <recent name="$PROJECT_DIR$/src/routes" />
+      <recent name="$PROJECT_DIR$/src/componments" />
     </key>
   </component>
   <component name="RunManager">
@@ -612,7 +525,8 @@
       <workItem from="1563499659678" duration="384000" />
       <workItem from="1563500326017" duration="680000" />
       <workItem from="1564629804382" duration="46000" />
-      <workItem from="1585099502312" duration="2679000" />
+      <workItem from="1585099502312" duration="10249000" />
+      <workItem from="1585185125948" duration="9288000" />
     </task>
     <servers />
   </component>
@@ -625,5 +539,35 @@
         <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
       </list>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585193164890">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585193164890" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585193164888">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585193164888" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585193164888">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585193164888" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585193164889">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585193164889" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1585133766761">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585133766761" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1585194393144">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1585194393144" />
+    <state x="386" y="218" width="667" height="486" key="find.popup" timestamp="1585193283531">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="386" y="218" width="667" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1585193283531" />
   </component>
 </project>
