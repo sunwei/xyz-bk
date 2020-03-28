@@ -1,16 +1,9 @@
 import React from 'react';
 import { Route, Switch } from 'react-router';
 import AppLayout from '../containers/AppLayout'
-// import Header from "../containers/AppLayout/header";
 import About from "../containers/About";
-
-function IndexPage({ children, params }) {
-  return (
-    <div className="container">
-      <h2>sunwei</h2>
-    </div>
-  );
-}
+import Home from "../containers/Home";
+import Service from "../containers/Service";
 
 export default (store) => {
 
@@ -21,9 +14,14 @@ export default (store) => {
             <About />
           </AppLayout>
         </Route>
+        <Route path="/services">
+          <AppLayout>
+            <Service />
+          </AppLayout>
+        </Route>
         <Route path="/">
           <AppLayout>
-            <IndexPage />
+            <Home />
           </AppLayout>
         </Route>
       </Switch>

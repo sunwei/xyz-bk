@@ -1,3 +1,6 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from "react-router-dom";
@@ -5,7 +8,8 @@ import { Provider } from 'react-redux'
 import createStore from './redux/store';
 import createRoutes from './routes';
 import DevTools from './components/DevTools';
-import './index.css';
+import Header from "./containers/AppLayout/header";
+import Footer from "./containers/AppLayout/footer";
 
 import * as serviceWorker from './serviceWorker';
 
@@ -16,12 +20,14 @@ const routes = createRoutes(store);
 
 ReactDOM.render(
   <Provider store={store}>
-    <div>
+    <Header/>
+    <div id="page-content">
       <BrowserRouter>
         {routes}
       </BrowserRouter>
       {isDevelopment && <DevTools />}
     </div>
+    <Footer/>
   </Provider>,
   document.getElementById('root')
 );

@@ -1,3 +1,4 @@
+html,
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +11,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: unset;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('images/masthead-001.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }

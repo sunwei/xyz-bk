@@ -2,30 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0199f62-8d5d-49e4-b34d-a1dc4b3b6124" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/DevTools/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/About/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/AppLayout/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/AppLayout/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/AppLayout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/http/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Service/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Service/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/beigenoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/bluenoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/brownnoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/greennoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/greynoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/orangenoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/pinknoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/purplenoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/rednoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/colors/yellownoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/masthead-001.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/specs/containers/AppLayout.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/AppLayout/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/AppLayout/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/AppLayout/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/AppLayout/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/AppLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/AppLayout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/specs/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,27 +65,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/containers/AppLayout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/containers/Service" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/containers/Service" />
+      <recent name="$PROJECT_DIR$/src/containers" />
+      <recent name="$PROJECT_DIR$/src/containers/AppLayout" />
+      <recent name="$PROJECT_DIR$/src/redux/reducers" />
+      <recent name="$PROJECT_DIR$/src/routes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/specs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/post" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/containers/AppLayout" />
-      <recent name="$PROJECT_DIR$/src/containers" />
-      <recent name="$PROJECT_DIR$/src/redux/reducers" />
-      <recent name="$PROJECT_DIR$/src/routes" />
-      <recent name="$PROJECT_DIR$/src/componments" />
-    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.renders learn react link (1)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -443,6 +459,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="renders learn react link (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/specs/containers/AppLayout.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/specs/containers/AppLayout.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <option name="filePath" />
       <option name="vmParameters" />
@@ -504,6 +546,23 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link (1)" />
+        <item itemvalue="Jest.renders learn react link" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -526,7 +585,8 @@
       <workItem from="1563500326017" duration="680000" />
       <workItem from="1564629804382" duration="46000" />
       <workItem from="1585099502312" duration="10249000" />
-      <workItem from="1585185125948" duration="9288000" />
+      <workItem from="1585185125948" duration="14659000" />
+      <workItem from="1585293670861" duration="8209000" />
     </task>
     <servers />
   </component>
@@ -540,31 +600,51 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585193164890">
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1585206605691">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585193164890" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585193164888">
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1585206605691" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585220289113">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585193164888" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585193164888">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585220289113" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585220289113">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585193164888" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585193164889">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585220289113" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585220289112">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585193164889" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585220289112" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585220289113">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585220289113" />
     <state x="229" y="100" key="SettingsEditor" timestamp="1585133766761">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585133766761" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1585194393144">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1585305772204">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1585194393144" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1585305772204" />
     <state x="386" y="218" width="667" height="486" key="find.popup" timestamp="1585193283531">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

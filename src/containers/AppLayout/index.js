@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from "./header";
-import Footer from "./footer";
 
 export default class AppLayout extends Component {
   static propTypes = {
@@ -17,9 +14,7 @@ export default class AppLayout extends Component {
   render() {
     return (
       <div className="containers">
-        <Header/>
         {this.props.children}
-        <Footer/>
       </div>
     );
   }
